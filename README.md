@@ -1,14 +1,14 @@
 ## About Me
 
-A web developer.
-
-- 🏗 Focus on Web
-- 📫 Ping me by [Email](mailto:kwwnjujlc@sina.com)
-
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kanweiwei&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanweiwei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+A web developer.
+
+- 🏗 Focus on Web
+- 📫 Ping me by [Email](mailto:kwwnjujlc@sina.com)
 
 ## Favorite Tech
 > some languages, libraries
