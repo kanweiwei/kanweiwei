@@ -1,9 +1,10 @@
 ## About Me
+<div style="overflow: hidden">
+<img width="350px" style="float: left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanweiwei&layout=compact" />
 
+<img width="490px" style="float: left" src="https://github-readme-stats.vercel.app/api?username=kanweiwei&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kanweiwei&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanweiwei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 A web developer.
 
